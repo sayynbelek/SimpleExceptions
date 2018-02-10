@@ -1,0 +1,6 @@
+Z:\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+Z:\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+Z:\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+Z:\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+Z:\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+Z:\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
